@@ -3,6 +3,8 @@
 body {
     background-color: #211c28;
     color: white;
+    overflow-x: hidden; 
+    overflow-y: auto;   
+    min-height: 100vh;  
   }
-  
   
